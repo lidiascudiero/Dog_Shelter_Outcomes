@@ -1,4 +1,4 @@
-# Machine-Learning-project
+# Shelter Intelligence: Predictive Analytics for Adoption Optimization
 Machine Learning Project-Dog Shelter-Outcomes
 # Dog Shelter Outcomes Dataset
 
