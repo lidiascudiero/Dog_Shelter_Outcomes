@@ -73,7 +73,7 @@ Beyond the raw data, I engineered specific features to capture the "Behavioral S
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook / Google Colab
-- **Models:** K-Means, Random Forest (Classifier/Regressor), SVM, KNN, Decision Trees
+- **Models:** K-Means, DBSCAN, Hierarchical Clustering,Decision Tree, Random Forest (Classifier/Regressor), SVM, KNN, Linear Regression
 
 ---
 
